@@ -6,8 +6,9 @@
 - ⚡ Fun fact: I love **3D design & automation!**  
 
 
-### 🚀 Featured Project: My Portfolio
-<iframe src="https://daamleon.github.io/SleepTourism/" width="100%" height="500px"></iframe>
+### 🚀 Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://github.com/daamleon/nama-repo)
+
 
 
 ## 📊 GitHub Stats  
