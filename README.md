@@ -7,7 +7,9 @@
 
 
 ### 🚀 Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lynnn17&repo=Exni&theme=radical)](https://github.com/daamleon/nama-repo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://github.com/daamleon/nama-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=printcard&theme=radical)](https://github.com/daamleon/nama-repo)
 
 
 
