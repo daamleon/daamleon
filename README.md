@@ -9,7 +9,7 @@
 ### 🚀 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SENSORAI-Smart-Home-Monitoring-System&theme=radical)](https://github.com/daamleon/SENSORAI-Smart-Home-Monitoring-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lynnn17&repo=Exni&theme=radical)](https://exni.web.id/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://github.com/daamleon/SleepTourism)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://daamleon.github.io/SleepTourism/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=cardprint&theme=radical)](https://github.com/daamleon/cardprint)
 
 
