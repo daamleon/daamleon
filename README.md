@@ -7,10 +7,10 @@
 
 
 ### 🚀 Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SENSORAI-Smart-Home-Monitoring-System&theme=radical)](https://github.com/daamleon/nama-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lynnn17&repo=Exni&theme=radical)](https://github.com/daamleon/nama-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://github.com/daamleon/nama-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=cardprint&theme=radical)](https://github.com/daamleon/nama-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SENSORAI-Smart-Home-Monitoring-System&theme=radical)](https://github.com/daamleon/SENSORAI-Smart-Home-Monitoring-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lynnn17&repo=Exni&theme=radical)](https://github.com/daamleon/Exni)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://github.com/daamleon/SleepTourism)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=cardprint&theme=radical)](https://github.com/daamleon/cardprint)
 
 
 
