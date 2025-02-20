@@ -14,9 +14,13 @@
 
 
 
-
 ## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daamleon&show_icons=true&theme=radical&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daamleon&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daamleon&theme=radical)
+
 
 ## 📫 Connect with me:  
 <p align="left">
