@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **Fullstack Web Development**  
 - 💡 Interested in **IoT, and AI Development**  
-- ⚡ Fun fact: I love **3D design & automation!**  
+- ⚡ Fun fact: **Fact is fun :)**  
 
 
 ### 🚀 Featured Projects
