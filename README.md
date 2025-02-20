@@ -12,17 +12,17 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SleepTourism&theme=radical)](https://daamleon.github.io/SleepTourism/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=cardprint&theme=radical)](https://github.com/daamleon/cardprint)
 
-## 🚀 Tech Stack  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,react,vite,tailwind,firebase,postgres,docker,git,vscode,vercel,netlify" />
-</p>
-
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daamleon&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daamleon&theme=radical)
 
+
+## 🚀 Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,react,vite,tailwind,firebase,postgres,docker,git,vscode,vercel" />
+</p>
 
 ## 📫 Connect with me:  
 <p align="left">
