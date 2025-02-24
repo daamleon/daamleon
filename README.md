@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daamleon&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daamleon&theme=radical)
+
 
 
 ## 🚀 Tech Stack  
