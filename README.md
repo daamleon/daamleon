@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Adam Yanuar  
 🚀 Passionate about Front-End Web Development.  
 
-- 🌱 Currently learning **Fullstack Web Development**  
+- 🌱 Currently learning **IoT and Fullstack Web Development**  
 - 💡 Interested in **IoT, and AI Development**  
-- ⚡ Fun fact: **Fact is fun :)**  
 
 
 ### 🚀 Featured Projects
