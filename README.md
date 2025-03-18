@@ -19,7 +19,7 @@
 ## 🚀 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,js,ts,go,react,tailwind,vite,firebase,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,react,tailwind,vite,firebase" />
 </p>
 
 ## 📫 Connect with me:  
