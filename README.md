@@ -9,7 +9,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=SENSORAI-Smart-Home-Monitoring-System&theme=radical)](https://github.com/daamleon/SENSORAI-Smart-Home-Monitoring-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=fe-qr-checkin-pwa&theme=radical)](https://github.com/daamleon/fe-qr-checkin-pwa)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lynnn17&repo=Exni&theme=radical)](https://exni.web.id/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=wnatechproject&theme=radical)](https://github.com/daamleon/natechproject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daamleon&repo=Natech-Project&theme=radical)](https://github.com/daamleon/Natech-Project)
 
 
 
